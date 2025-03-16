@@ -1,6 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Pokemon Explorer
+
+A Next.js application that displays a list of Pokemon with filtering by type and pagination. Built with TypeScript and shadcn/ui for a polished user interface.
+
+## Features
+
+- Display Pokemon in a responsive grid layout
+- Filter Pokemon by type
+- Pagination for browsing through all Pokemon
+- Responsive design for mobile and desktop
+- Modern UI with shadcn/ui components
+
+## Technologies Used
+
+- Next.js 14
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- PokeAPI
 
 ## Getting Started
+
+### Prerequisites
+
+- Node.js 18.0.0 or later
+- npm or yarn
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone <repository-url>
+cd pokemon
+```
 
 First, run the development server:
 
